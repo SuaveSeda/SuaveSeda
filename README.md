@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**SuaveSeda/SuaveSeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**SuaveSeda/SuaveSeda** is my ✨ _first_ ✨ repository! `README.md` (this file) use Markdown plain text language.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
